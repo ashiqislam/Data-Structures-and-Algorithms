@@ -2,7 +2,7 @@ import java.util.*;
 
 /**
  * 
- * @author Ashiq Hoque
+ * @author Ashiq Islam
  * Professor Wei
  * Data Structures and Algorithms
  * 
